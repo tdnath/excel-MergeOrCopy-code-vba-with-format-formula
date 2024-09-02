@@ -4,4 +4,4 @@
 ### Open MS Excel
 ### Alt+F11
 ### Insert -> Module
-### copy and paste code below
+### copy and paste code
